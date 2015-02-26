@@ -1,0 +1,46 @@
+
+
+.body { 
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 24px;
+}
+
+.headerA { 
+	float: left;
+}
+.headerB { 
+	float: left;
+}
+
+.header-contact { 
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;	
+	float: left; 
+	text-align: center; 
+	margin: 35px 20px 10px 20px;
+	font-size: 20px;
+	line-height: 22px;
+}
+
+
+.header-contact a:link {
+    color: #000;
+	text-decoration: none;
+}
+
+/* visited link */
+.header-contact a:visited {
+    color: #000;
+	text-decoration: none;
+}
+
+/* mouse over link */
+.header-contact a:hover {
+    color: #000;
+	//text-decoration: none;
+}
+
+/* selected link */
+.header-contact a:active {
+    color: #000;
+	text-decoration: none;
+}
